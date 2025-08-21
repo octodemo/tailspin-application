@@ -9,8 +9,6 @@ This repository contains the project for a 1 hour guided workshop to explore Git
 
 ## Launch the site
 
-## Launch the site
-
 A script file has been created to launch the site. You can run it by:
 
 ```bash
